@@ -1,0 +1,3 @@
+To remove small blobs on the size of the print, try increasing the resolution setting to a larger distance, so fewer print moves are made:
+https://www.youtube.com/watch?v=Hvw3DrVAeTA
+You can also try to decimate the 3D models mesh with Blender, to avoid errors.
